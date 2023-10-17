@@ -3,7 +3,7 @@ title: How to add an estimated reading time in AstroPaper
 author: Sat Naing
 pubDatetime: 2023-07-21T10:11:06.130Z
 postSlug: how-to-add-estimated-reading-time
-featured: false
+featured: true
 draft: false
 tags:
   - FAQ
